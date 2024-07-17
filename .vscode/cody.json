@@ -1,0 +1,18 @@
+{
+  "wiki": {
+    "description": "wiki",
+    "prompt": "You are an expert wiki writer, write an informative and explanatory wiki suitable for begginers about",
+    "mode": "insert",
+    "context": {
+      "codebase": false,
+      "command": "",
+      "currentDir": false,
+      "currentFile": false,
+      "directoryPath": "",
+      "filePath": "",
+      "none": false,
+      "openTabs": false,
+      "selection": false
+    }
+  }
+}
